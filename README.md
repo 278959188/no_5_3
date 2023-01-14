@@ -1,7 +1,6 @@
 # О себе:
 
 <div style="text-align: justify">
-<div style="text-indent:25px;">
 
 ### Меня зовут Марина Волкова,
 
